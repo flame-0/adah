@@ -9,6 +9,7 @@
 127.0.0.1 abtest.mistat.intl.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 account.preview.n.xiaomi.net
+127.0.0.1 account.xiaomi.com
 127.0.0.1 ad.cdn.pandora.xiaomi.com
 127.0.0.1 ad.mi.com
 127.0.0.1 ad.quickapp.hybrid.xiaomi.com
@@ -158,6 +159,7 @@
 127.0.0.1 feedback.xmpush.xiaomi.com
 127.0.0.1 file.market.xiaomi.com
 127.0.0.1 file.xmpush.xiaomi.com
+127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 findapi.micloud.xiaomi.net
 127.0.0.1 flash.sec.intl.miui.com
 127.0.0.1 fr-api.xmpush.global.xiaomi.com
@@ -422,6 +424,7 @@
 127.0.0.1 upgrade.pandora.xiaomi.com
 127.0.0.1 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
 127.0.0.1 us.api.micloud.xiaomi.net
+127.0.0.1 us.find.api.micloud.xiaomi.net
 127.0.0.1 user.pandora.xiaomi.com
 127.0.0.1 userid.xiaomi.com
 127.0.0.1 video.intl.xiaomi.com
@@ -453,4 +456,3 @@
 127.0.0.1 zhuti.xiaomi.com
 127.0.0.1 zx.game.xiaomi.com
 127.0.0.1 zx.game.xiaomi.comstat.xiaomi.com
-127.0.0.1 
