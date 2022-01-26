@@ -564,6 +564,7 @@
 127.0.0.1 preview.pt.sys.intl.miui.com
 127.0.0.1 preview.sys.pt.miui.com
 127.0.0.1 preview.tvboss.pandora.xiaomi.com
+127.0.0.1 privacy.mi.com
 127.0.0.1 product.10046.mi.com
 127.0.0.1 profile.pandora.xiaomi.com
 127.0.0.1 protect.dev.sec.intl.miui.com
@@ -702,6 +703,9 @@
 127.0.0.1 t1.g.mi.com
 127.0.0.1 t1.market.xiaomi.com
 127.0.0.1 t2.market.xiaomi.com
+127.0.0.1 t3.market.xiaomi.com
+127.0.0.1 t4.market.xiaomi.com
+127.0.0.1 t5.market.xiaomi.com
 127.0.0.1 tach.bbs.miui.com
 127.0.0.1 tc.hd.xiaomi.com
 127.0.0.1 tel.fe01.hh.xiaomi.com
