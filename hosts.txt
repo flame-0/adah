@@ -36,7 +36,6 @@
 127.0.0.1 account.jetbrains.com
 127.0.0.1 account.preview.n.xiaomi.net
 127.0.0.1 account.vip.miui.com
-127.0.0.1 account.xiaomi.com
 127.0.0.1 account.xiaomi.com.adserver.com
 127.0.0.1 accountapi.agoda.com
 127.0.0.1 acheel.dmp.ad.xiaomi.com
@@ -182,7 +181,6 @@
 127.0.0.1 api.hybrid.intl.xiaomi.com
 127.0.0.1 api.hybrid.xiaomi.com
 127.0.0.1 api.input.intl.miui.com
-127.0.0.1 api.io.mi.com
 127.0.0.1 api.joyose.miui.com
 127.0.0.1 api.jr.mi.com
 127.0.0.1 api.kuai.mvideo.xiaomi.com
@@ -577,7 +575,6 @@
 127.0.0.1 file.wangpan.api.miui.com
 127.0.0.1 file.xmpush.xiaomi.com
 127.0.0.1 files.ai.xiaomi.com
-127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 findapi.micloud.xiaomi.net
 127.0.0.1 flash.sec.intl.miui.com
 127.0.0.1 flash.sec.miui.com
@@ -628,7 +625,6 @@
 127.0.0.1 glance.com
 127.0.0.1 global.api.huangye.miui.com
 127.0.0.1 global.developer.xiaomi.com
-127.0.0.1 global.market.xiaomi.com
 127.0.0.1 global.preview.app.market.pt.xiaomi.com
 127.0.0.1 global.search.xiaomi.net
 127.0.0.1 global.video.intl.xiaomi.com
@@ -1390,8 +1386,6 @@
 127.0.0.1 unlock.pt.intl.xiaomi.com
 127.0.0.1 unlock.pt.xiaomi.com
 127.0.0.1 update.avlyun.sec.miui.com
-127.0.0.1 update.intl.miui.com
-127.0.0.1 update.miui.com
 127.0.0.1 updates.miui.com
 127.0.0.1 upgrade.mishop.pandora.xiaomi.com
 127.0.0.1 upgrade.pandora.xiaomi.com
