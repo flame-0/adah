@@ -489,7 +489,6 @@
 127.0.0.1 eb.hybrid.xiaomi.com
 127.0.0.1 ecom.intl.xiaomi.com
 127.0.0.1 ecoprj.xiaomi.com
-127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edu.hebnews.cn
 127.0.0.1 eid.nfcpay.xiaomi.com
 127.0.0.1 ek.miui.com
